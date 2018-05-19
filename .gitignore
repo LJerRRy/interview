@@ -2,3 +2,6 @@
 #.gitignore
 .idea/
 interviews.iml
+out
+out/production/interviews/leetcode/Test.class
+out/production/interviews/program/
