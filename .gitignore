@@ -3,5 +3,4 @@
 .idea/
 interviews.iml
 out
-out/production/interviews/leetcode/Test.class
-out/production/interviews/program/
+src/program/perls/first/data/*.txt
